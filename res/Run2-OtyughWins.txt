@@ -1,0 +1,147 @@
+/Library/Java/JavaVirtualMachines/jdk-16.0.2.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=56501:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/roydon/IdeaProjects/PDP/Project4-AdventureGame/out/production/Project3-Dungeon GameDriver 5 5 3 Y 20 2
+----------------------------------------------------
+You are in a cave
+Doors lead to: N E W 
+You have: Diamonds- 0, Sapphires- 0, Rubies- 0, Arrows- 3
+You smell something Terrible nearby.
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: S
+Shoot in which direction (N-E-S-W)?: W
+Shoot how far? (1-5): 1
+You shoot an arrow into the darkness
+----------------------------------------------------
+You are in a Cave
+Doors lead to: N E W 
+You have: Diamonds- 0, Sapphires- 0, Rubies- 0, Arrows- 2
+You smell something Terrible nearby.
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: S
+Shoot in which direction (N-E-S-W)?: N
+Shoot how far? (1-5): 1
+You shoot an arrow into the darkness
+You hear a great howl in the distance
+----------------------------------------------------
+You are in a Cave
+Doors lead to: N E W 
+You have: Diamonds- 0, Sapphires- 0, Rubies- 0, Arrows- 1
+You smell something Terrible nearby.
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: S
+Shoot in which direction (N-E-S-W)?: N
+Shoot how far? (1-5): 1
+You shoot an arrow into the darkness
+You killed an Otyugh !
+----------------------------------------------------
+You are in a Cave
+Doors lead to: N E W 
+You have: Diamonds- 0, Sapphires- 0, Rubies- 0, Arrows- 0
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: m
+Where to (N-E-S-W)?: n
+----------------------------------------------------
+You are in a Cave
+Doors lead to: N S W 
+You have: Diamonds- 0, Sapphires- 0, Rubies- 0, Arrows- 0
+You find 1 rubies, 2 diamonds, 3 sapphires, here
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: p
+Pick what (R-D-S-A)?: d
+Pick how many?: 2
+----------------------------------------------------
+You are in a Cave
+Doors lead to: N S W 
+You have: Diamonds- 2, Sapphires- 0, Rubies- 0, Arrows- 0
+You find 1 rubies, 3 sapphires, here
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: m
+Where to (N-E-S-W)?: n
+----------------------------------------------------
+You are in a Tunnel
+Doors lead to: E S 
+You have: Diamonds- 2, Sapphires- 0, Rubies- 0, Arrows- 0
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: m
+Where to (N-E-S-W)?: e
+----------------------------------------------------
+You are in a Cave
+Doors lead to: E S W 
+You have: Diamonds- 2, Sapphires- 0, Rubies- 0, Arrows- 0
+You find 2 arrows here
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: m
+Where to (N-E-S-W)?: e
+----------------------------------------------------
+You are in a Cave
+Doors lead to: E S W 
+You have: Diamonds- 2, Sapphires- 0, Rubies- 0, Arrows- 0
+You find 2 arrows here
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: m
+Where to (N-E-S-W)?: s
+----------------------------------------------------
+You are in a Cave
+Doors lead to: N E S W 
+You have: Diamonds- 2, Sapphires- 0, Rubies- 0, Arrows- 0
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: m
+Where to (N-E-S-W)?: s
+----------------------------------------------------
+You are in a Tunnel
+Doors lead to: N S 
+You have: Diamonds- 2, Sapphires- 0, Rubies- 0, Arrows- 0
+You smell something Bad nearby.
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: s
+Shoot in which direction (N-E-S-W)?: s
+Shoot how far? (1-5): 2
+You are out of arrows, explore to find more
+----------------------------------------------------
+You are in a Tunnel
+Doors lead to: N S 
+You have: Diamonds- 2, Sapphires- 0, Rubies- 0, Arrows- 0
+You smell something Bad nearby.
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: m
+Where to (N-E-S-W)?: s
+----------------------------------------------------
+You are in a Cave
+Doors lead to: N E S W 
+You have: Diamonds- 2, Sapphires- 0, Rubies- 0, Arrows- 0
+You find 2 arrows here
+You smell something Terrible nearby.
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: p
+Pick what (R-D-S-A)?: a
+Pick how many?: 2
+----------------------------------------------------
+You are in a Cave
+Doors lead to: N E S W 
+You have: Diamonds- 2, Sapphires- 0, Rubies- 0, Arrows- 2
+You smell something Terrible nearby.
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: s
+Shoot in which direction (N-E-S-W)?: s
+Shoot how far? (1-5): 1
+You shoot an arrow into the darkness
+----------------------------------------------------
+You are in a Cave
+Doors lead to: N E S W 
+You have: Diamonds- 2, Sapphires- 0, Rubies- 0, Arrows- 1
+You smell something Terrible nearby.
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: s
+Shoot in which direction (N-E-S-W)?: e
+Shoot how far? (1-5): 1
+You shoot an arrow into the darkness
+----------------------------------------------------
+You are in a Cave
+Doors lead to: N E S W 
+You have: Diamonds- 2, Sapphires- 0, Rubies- 0, Arrows- 0
+You smell something Terrible nearby.
+
+Move, Pickup, or Shoot (M-P-S) or Q to Quit: m
+Where to (N-E-S-W)?: w
+Chomp, chomp, chomp, you are eaten by an Otyugh!
+Better luck next time
+
+Process finished with exit code 0
